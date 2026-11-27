@@ -1,0 +1,3 @@
+ann 10 Red
+bob 5 Red
+cy 3 Blue
