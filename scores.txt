@@ -1,0 +1,3 @@
+Maya,88
+Karim,55
+Jad,60
